@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ElsonTinashe Sithole
 - 👀 I’m interested in Coding and developing Websites and Softwares
 - 🌱 I’m currently learning Electronics Engineering
-- 💞️ I’m looking to collaborate on Webdevelopment
+- 💞️ I’m looking to collaborate on Web and App development 
+- i am currently working on automation projects for online companies 
 - 📫 How to reach me 0775 211 459
 
 <!---
